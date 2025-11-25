@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[🇺🇸 English](#english) | [🇨🇳 中文](#chinese)
+
 
 **Capture screen, windows, or tabs directly in your browser and send them to ComfyUI.**  
 **无需服务器显卡驱动，直接在浏览器内截取屏幕、窗口或标签页，并发送给 ComfyUI。**
@@ -13,7 +13,7 @@
 
 <a name="english"></a>
 
-## 🇺🇸 English
+
 
 **ComfyUI-WebROI** is a custom node that enables client-side screen capturing directly within the browser. It supports **Region of Interest (ROI)** selection, allowing you to crop specific parts of your screen before sending them to the workflow.
 
@@ -62,4 +62,5 @@ Modern browsers **block** screen sharing APIs on insecure (HTTP) connections.
      3)Double-click to reset to full view.
 4.Generate: Connect the IMAGE output to your workflow and click Queue Prompt.
 5.Real-time: Check Auto Queue in the ComfyUI menu to stream frames continuously.
+
 
